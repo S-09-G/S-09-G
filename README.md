@@ -27,7 +27,7 @@
 
 ### 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/shivansh-gupta09/">
+<a href="https://www.linkedin.com/in/shivansh-gupta-b76b7027b">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
